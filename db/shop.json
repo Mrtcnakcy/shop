@@ -1,0 +1,11 @@
+{
+  "products":[
+{"id":1, "name" :"Laptop", "price" :2500, "categoryId": 1, "description" :"Asus ZenBook", "imageUrl":"https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"},
+
+{"id": 2, "name" :"Mouse", "price" :50, "categoryId": 2, "description": "A4 Tech", "imageUrl":"https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"}],
+
+  "categories":[
+{"id": 1, "name": "Bilgisayar"},
+{"id": 2, "name": "Elektronik"}
+]
+}
